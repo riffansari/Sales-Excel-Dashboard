@@ -7,10 +7,6 @@ The objective of this project is to analyze a company's sales data to identify k
 
 ## Tools Used
 Microsoft Excel
-Excel Formulas
-Pivot Tables
-Pivot Charts
-Slicers
 
 ## Dashboard Features
 KPI Summary (Sales, Profit, Orders, and Customers)
